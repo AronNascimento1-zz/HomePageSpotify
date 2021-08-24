@@ -8,7 +8,7 @@ _________
 
 ```
 # Clone o repositório
-$ git clone git@github.com:AronNascimento1/Teste-SamiSaude.git
+$ git clone https://github.com/AronNascimento1/HomePageSpotify.git
 ```
 
 
